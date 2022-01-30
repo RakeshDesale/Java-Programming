@@ -1,6 +1,6 @@
 # Without Using Function
 
-Solution:
+# Solution:
 
 import java.io.*;
 import java.util.*;
