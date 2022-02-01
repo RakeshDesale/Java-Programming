@@ -1,3 +1,5 @@
+# Without Using Function
+
 # Solution:
 
 import java.io.*;
